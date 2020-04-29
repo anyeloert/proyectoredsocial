@@ -1,0 +1,2 @@
+export const INFO_FACEBOOK = 'INFO_FACEBOOK'
+export const INFO_GOOGLE = 'INFO_GOOGLE'

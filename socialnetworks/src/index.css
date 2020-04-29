@@ -1,0 +1,35 @@
+html,
+body {
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.login {
+    margin: 15% 0;
+}
+
+.facebook {
+    background-color: #3b5998;
+    width: 100%;
+}
+
+.google {
+    background-color: #db4a39;
+    width: 100%;
+}
+
+svg {
+    margin-right: 5px;
+}
+
+.card {
+    width: 35%;
+    margin: auto;
+}
+
+img {
+    height: 64px;
+    cursor: pointer;
+    border-radius: 50%;
+}
